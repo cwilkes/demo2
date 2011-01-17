@@ -1,3 +1,4 @@
 void mymethod() {
-  println "this" + " that"
+  println "Mine " + "this" + " that"
+  println "more output from master"
 }
