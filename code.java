@@ -1,3 +1,3 @@
 void mymethod() {
-  println "this" + " that"
+  println "this that"
 }
